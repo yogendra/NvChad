@@ -1,0 +1,3 @@
+[submodule "lua/custom"]
+	path = lua/custom
+	url = git@github.com:yogendra/NvChad-custom.git
